@@ -10,7 +10,7 @@ Basically composer is a dependency manager for PHP. It allows us to get dependen
 
 How to Install Composer
 ========================
-Go to https://getcomposer.org/doc/00-intro.md/. Select the version that you want do download. In my case I'm using mac, so continue with the mac version.
+Go to https://getcomposer.org/doc/00-intro.md and select the version that you want do download. In my case I'm using mac, so continue with the mac version.
 
 Open up your terminal and write the following command.
 
