@@ -14,12 +14,12 @@ Go to https://getcomposer.org/doc/00-intro.md/. Select the version that you want
 
 Open up your terminal and write the following command.
 
-curl -sS https://getcomposer.org/installer | php
-mv composer.phar /usr/local/bin/composer
+<pre class=" language-bash"><code class=" language-bash">curl -sS https://getcomposer.org/installer | php
+</code></pre>
 
 That's it you just downloaded the composer, however if you would like to access to composer anywhere on you machine you should move the composer.phar file to your bin directory. To do that write the following command;
 
-mv composer.phar /usr/local/bin/composer
+<pre class=" language-bash"><code class=" language-bash">mv composer.phar /usr/local/bin/composer</code></pre>
 
 and that's it!. You can now call the composer command anywhere on your machine. 
 
